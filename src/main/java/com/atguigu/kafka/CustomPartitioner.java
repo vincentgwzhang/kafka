@@ -13,8 +13,8 @@ public class CustomPartitioner implements Partitioner {
 
 	@Override
 	public int partition(String topic, Object key, byte[] keyBytes, Object value, byte[] valueBytes, Cluster cluster) {
-        // 控制分区
-		return 1;
+		Integer integer = cluster.partitionCountForTopic(topic);
+		return keyBytes.hashCode() % integer;
 	}
 
 	@Override

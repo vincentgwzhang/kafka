@@ -10,7 +10,7 @@ public class TimeInterceptor implements ProducerInterceptor<String, String> {
 
     @Override
     public ProducerRecord<String, String> onSend(ProducerRecord<String, String> record) {
-        return new ProducerRecord<>(record.topic(), record.key(), System.currentTimeMillis() + "," + record.value());
+        return new ProducerRecord<>(record.topic(), record.key(), "Vincent Add " + System.currentTimeMillis() + "," + record.value());
     }
 
     @Override

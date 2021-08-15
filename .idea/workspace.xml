@@ -1,46 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a2c3c92a-308e-4af4-a7d4-ccca581a633d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kafka" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kafka.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/kafka/CallBackProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/kafka/CustomConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/kafka/CustomPartitioner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/kafka/CustomProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/kafka/LowerAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/kafka/interceptor/CountInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/kafka/interceptor/TimeInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/kafka/streams/LogProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/kafka/streams/StreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/atguigu/kafka/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/kafka/CallBackProducer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/kafka/CallBackProducer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/kafka/CustomConsumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/kafka/CustomPartitioner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/kafka/CustomProducer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/kafka/LowerAPI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/kafka/interceptor/CountInterceptor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/kafka/interceptor/TimeInterceptor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/kafka/streams/LogProcessor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/atguigu/kafka/streams/StreamDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/atguigu/kafka/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kafka" beforeDir="false" afterPath="$PROJECT_DIR$/knowledge/study.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/kafka/CallBackProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/kafka/CallBackProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/kafka/CustomConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/kafka/CustomConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/kafka/CustomPartitioner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/kafka/CustomPartitioner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/kafka/CustomProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/kafka/CustomProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/kafka/interceptor/TimeInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/kafka/interceptor/TimeInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/atguigu/kafka/CallBackProducer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/atguigu/kafka/CallBackProducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/atguigu/kafka/CallBackProducer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/atguigu/kafka/CustomConsumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/atguigu/kafka/CustomConsumer.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,31 +30,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/kafka/streams/StreamDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="836">
-              <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -106,13 +63,6 @@
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="MavenProjectNavigator">
     <treeState>
       <expand>
@@ -130,6 +80,7 @@
     <option name="width" value="1872" />
     <option name="height" value="1053" />
   </component>
+  <component name="ProjectId" id="1wgT4i2dSv2zP2Uzzwu0GPjcxxS" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -150,28 +101,41 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/workspace/spring-kafka" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/knowledge" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.StreamDemo">
+  <component name="RunManager" selected="Application.CustomProducer">
+    <configuration name="CallBackProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.kafka.CallBackProducer" />
+      <module name="kafka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CustomConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.atguigu.kafka.CustomConsumer" />
       <module name="kafka" />
@@ -226,13 +190,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StreamDemo" />
-        <item itemvalue="Application.CustomConsumer" />
         <item itemvalue="Application.CustomProducer" />
+        <item itemvalue="Application.CallBackProducer" />
+        <item itemvalue="Application.CustomConsumer" />
+        <item itemvalue="Application.StreamDemo" />
         <item itemvalue="Application.LowerAPI" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -245,6 +211,9 @@
       <updated>1562506495138</updated>
       <workItem from="1562506496365" duration="13632000" />
       <workItem from="1562522845177" duration="41000" />
+      <workItem from="1628879046840" duration="12033000" />
+      <workItem from="1628903396604" duration="1567000" />
+      <workItem from="1628968805232" duration="2683000" />
     </task>
     <servers />
   </component>
@@ -318,7 +287,30 @@
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/atguigu/kafka/CallBackProducer.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.3.0/kafka-clients-2.3.0-sources.jar!/org/apache/kafka/clients/producer/ProducerRecord.java">

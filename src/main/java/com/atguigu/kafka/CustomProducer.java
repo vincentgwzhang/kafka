@@ -14,7 +14,7 @@ public class CustomProducer {
 	public static void main(String[] args) {
 		Properties props = new Properties();
 		// Kafka服务端的主机名和端口号
-		props.put("bootstrap.servers", "localhost:9092");
+		props.put("bootstrap.servers", "localhost:29092");
 		// 等待所有副本节点的应答
 		props.put(ProducerConfig.ACKS_CONFIG, "all");
 
